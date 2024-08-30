@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 119444d5cce08104e96521f3a1851fa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sharkPrefab: {fileID: 7137416754392233263, guid: dddd7e9c98af4204d841f854f2f64835, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
